@@ -19,16 +19,6 @@ This GitHub is a living lab where I share real implementations, IaC projects and
 
 ---
 
-## 📊 GitHub Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=breno-franco-469344277&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-franco-469344277&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=breno-franco-469344277&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
-
----
-
 ## 🚀 Focus Areas
 
 - Infrastructure as Code with Terraform

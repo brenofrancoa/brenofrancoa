@@ -1,39 +1,58 @@
-👋 Hello! Welcome to my GitHub
+# 👋 Breno Franco — DevOps Engineer
 
-🎯 Currently studying and practicing: DevOps | AWS | Python | Java
-💡 Here I share my projects, labs, and automation scripts.
-
-
----
-
-## 🚀 Technologies I Use
-
-### ☁️ Cloud & DevOps  
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
-[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)  
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/actions)  
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-
-### 👨‍💻 Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+DevOps Engineer focused on **Cloud Infrastructure, Kubernetes and Automation**.  
+This GitHub is a living lab where I share real implementations, IaC projects and observability experiments.
 
 ---
 
-## 📘 Highlighted Projects
+## ⚡ Tech Stack
 
-- 🔧 Infrastructure with Terraform on AWS
-- 🐳 Containerized applications using Docker
-- ⚙️ CI/CD Pipelines with GitHub Actions
-- 🐍 Python scripts for DevOps automation
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+---
+
+## 📊 GitHub Metrics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=breno-franco-469344277&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-franco-469344277&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=breno-franco-469344277&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
 
 ---
 
-## 📫 Where to Find Me
+## 🚀 Focus Areas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/breno-franco-469344277/))  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breno.franco0425@gmail.com)
+- Infrastructure as Code with Terraform
+- AWS EKS & Cloud Architecture
+- Observability (Prometheus + Grafana)
+- CI/CD and DevOps Automation
+- Platform Engineering practices
 
 ---
+
+## 📂 What I Build
+
+- ☁️ Cloud infrastructure labs on AWS  
+- 🔧 Terraform modules and automation workflows  
+- 🐳 Containerized environments with Docker & Kubernetes  
+- 📊 Monitoring and observability stacks  
+
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-franco-469344277/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breno.franco0425@gmail.com)
+
+---
+
+⭐ Building, learning and shipping cloud infrastructure.

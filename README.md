@@ -138,16 +138,6 @@ currently_learning:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=breno-franco&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
-
----
-
 ## 📂 What I Build
 
 > A living lab of real-world cloud infrastructure projects, IaC modules and observability experiments.

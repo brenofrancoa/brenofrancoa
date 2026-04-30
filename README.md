@@ -117,27 +117,6 @@ currently_learning:
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/breno-franco">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=breno-franco&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=326CE5&icon_color=326CE5&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=breno-franco&theme=github-dark-blue&hide_border=true&background=0D1117&ring=326CE5&fire=326CE5&currStreakLabel=326CE5" alt="GitHub Streak"/>
-</a>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-franco&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=326CE5&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=breno-franco&theme=github-compact&hide_border=true&bg_color=0D1117&color=326CE5&line=326CE5&point=ffffff&area=true&area_color=326CE5" alt="Activity Graph" width="95%"/>
-
-</div>
-
----
-
 ## 📂 What I Build
 
 > A living lab of real-world cloud infrastructure projects, IaC modules and observability experiments.

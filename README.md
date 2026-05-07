@@ -8,13 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=326CE5&center=true&vCenter=true&width=700&lines=Infrastructure+as+Code+Engineer;Building+scalable+cloud+platforms+on+AWS;Kubernetes+%2B+Terraform+%2B+Observability;CI%2FCD+%26+Platform+Engineering+enthusiast" alt="Typing SVG" />
 </a>
 
-<!-- Profile Views & Followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=breno-franco&label=Profile%20views&color=326CE5&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/breno-franco?label=Followers&style=flat-square&color=326CE5" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-326CE5?style=flat-square" alt="Focus" />
-</p>
-
 </div>
 
 ---
